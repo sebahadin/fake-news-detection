@@ -6,3 +6,7 @@ scikit-learn
 tensorflow
 keras
 pickle5
+
+
+streamlit
+pickle-mixin
